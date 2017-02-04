@@ -1,42 +1,40 @@
-{
-  "project_info": {
-    "project_number": "193335113210",
-    "firebase_url": "https://fir-cloud-messaging-demo-dd788.firebaseio.com",
-    "project_id": "fir-cloud-messaging-demo-dd788",
-    "storage_bucket": "fir-cloud-messaging-demo-dd788.appspot.com"
-  },
-  "client": [
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:193335113210:android:61ab55a65f6cbe7a",
-        "android_client_info": {
-          "package_name": "com.demo.FCM"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "193335113210-8l1b62us7i2pr2v6cju8ifpvlegn717d.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyAgql5LzE-iqa21gKTBVj5QV6D3AJ24w-c"
-        }
-      ],
-      "services": {
-        "analytics_service": {
-          "status": 1
-        },
-        "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
-        }
-      }
-    }
-  ],
-  "configuration_version": "1"
-}
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>193335113210-tbcdfmrddushimm3jhvetbhuhkquh4dp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.193335113210-tbcdfmrddushimm3jhvetbhuhkquh4dp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAh1c_OsI-QzGPcr1NO10zOUT63edIbjLg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>193335113210</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.demo.FCM</string>
+	<key>PROJECT_ID</key>
+	<string>fir-cloud-messaging-demo-dd788</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-cloud-messaging-demo-dd788.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:193335113210:ios:61ab55a65f6cbe7a</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-cloud-messaging-demo-dd788.firebaseio.com</string>
+</dict>
+</plist>
