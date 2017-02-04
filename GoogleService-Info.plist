@@ -1,1 +1,42 @@
-<!-- Dummy GoogleService-Info file !! replace with your configuration -->
+{
+  "project_info": {
+    "project_number": "193335113210",
+    "firebase_url": "https://fir-cloud-messaging-demo-dd788.firebaseio.com",
+    "project_id": "fir-cloud-messaging-demo-dd788",
+    "storage_bucket": "fir-cloud-messaging-demo-dd788.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193335113210:android:61ab55a65f6cbe7a",
+        "android_client_info": {
+          "package_name": "com.demo.FCM"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "193335113210-8l1b62us7i2pr2v6cju8ifpvlegn717d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgql5LzE-iqa21gKTBVj5QV6D3AJ24w-c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
