@@ -1,27 +1,27 @@
 {
   "project_info": {
-    "project_number": "193335113210",
-    "firebase_url": "https://fir-cloud-messaging-demo-dd788.firebaseio.com",
-    "project_id": "fir-cloud-messaging-demo-dd788",
-    "storage_bucket": "fir-cloud-messaging-demo-dd788.appspot.com"
+    "project_number": "837166089402",
+    "firebase_url": "https://coffe-shop.firebaseio.com",
+    "project_id": "coffe-shop",
+    "storage_bucket": "coffe-shop.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:193335113210:android:61ab55a65f6cbe7a",
+        "mobilesdk_app_id": "1:837166089402:android:8d3ce58121184c1e",
         "android_client_info": {
-          "package_name": "com.demo.FCM"
+          "package_name": "com.coffeeshop.www"
         }
       },
       "oauth_client": [
         {
-          "client_id": "193335113210-8l1b62us7i2pr2v6cju8ifpvlegn717d.apps.googleusercontent.com",
+          "client_id": "837166089402-i2p78nrv6p26n1n5kdopj9ipbtmb4qd8.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAgql5LzE-iqa21gKTBVj5QV6D3AJ24w-c"
+          "current_key": "AIzaSyCAixMmdsinD2e9Vdfe17DOM5ZChiNkMtw"
         }
       ],
       "services": {
