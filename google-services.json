@@ -8,12 +8,86 @@
   "client": [
     {
       "client_info": {
+        "mobilesdk_app_id": "1:837166089402:android:0b1ab4be0fcf6347",
+        "android_client_info": {
+          "package_name": "com.appbuilder.bitsense"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837166089402-i2p78nrv6p26n1n5kdopj9ipbtmb4qd8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "837166089402-i2p78nrv6p26n1n5kdopj9ipbtmb4qd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAixMmdsinD2e9Vdfe17DOM5ZChiNkMtw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
         "mobilesdk_app_id": "1:837166089402:android:8d3ce58121184c1e",
         "android_client_info": {
           "package_name": "com.coffeeshop.www"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "837166089402-i2p78nrv6p26n1n5kdopj9ipbtmb4qd8.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "837166089402-i2p78nrv6p26n1n5kdopj9ipbtmb4qd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAixMmdsinD2e9Vdfe17DOM5ZChiNkMtw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837166089402:android:ea3d5f1b8a611c0d",
+        "android_client_info": {
+          "package_name": "com.coffeeshoppop.www"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837166089402-i2p78nrv6p26n1n5kdopj9ipbtmb4qd8.apps.googleusercontent.com",
+          "client_type": 3
+        },
         {
           "client_id": "837166089402-i2p78nrv6p26n1n5kdopj9ipbtmb4qd8.apps.googleusercontent.com",
           "client_type": 3
