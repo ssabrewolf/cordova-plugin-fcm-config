@@ -4,7 +4,7 @@
     id="cordova-plugin-fcm-coffee-privatex"
     version="1.0.0">
     
-    <name>cordova-plugin-fcm-config-private</name>
+    <name>cordova-plugin-fcm-coffee-privatex</name>
     
     <description>This plugin copies the required fcm configurations in the project folder</description>
     
